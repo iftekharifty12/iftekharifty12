@@ -1,7 +1,3 @@
-Sure! Here's a template for a cool, engaging README file for yourself:
-
----
-
 # 👋 Hello, I'm Iftekhar Ul Islam!
 
 Welcome to my GitHub profile! I'm a passionate [Software Developer and Tester], always curious about how technology can solve real-world problems and make life easier. A love for continuous learning and creativity drives me.
