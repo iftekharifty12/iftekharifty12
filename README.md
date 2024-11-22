@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Tester, al
 ### 🚀 What I Do
 - **Coding**: I work on Python, JavaScript, React, HTML, CSS, Bootstrap.
 - **Building**: Currently working on A student profile management for a university.
-- **Learning**: Always exploring new tech, frameworks, and innovations in AI and UI/UX].
+- **Learning**: Always exploring new tech, frameworks, and innovations in AI and UI/UX.
 
 ### 🌱 What I'm Learning
 Right now, I'm diving into:
@@ -19,9 +19,9 @@ I love spending time on:
 
 ### 📫 How to Reach Me
 Feel free to reach out! I love connecting with like-minded folks.
-- Email: [Your email]
-- Twitter: [Your Twitter handle]
-- LinkedIn: [Your LinkedIn profile]
+- Email: iftekharislam929@gmail.com
+- Twitter: 
+- LinkedIn: Iftekhar Ul Islam
 
 ---
 
