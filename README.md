@@ -20,8 +20,8 @@ I love spending time on:
 ### 📫 How to Reach Me
 Feel free to reach out! I love connecting with like-minded folks.
 - Email: iftekharislam929@gmail.com
-- Facebook: Iftekhar Ul Islam(https://www.facebook.com/iftekhar.ifty.752/) 
-- LinkedIn: Iftekhar Ul Islam(https://www.linkedin.com/in/iftekhar-ul-islam-a84b55335/)
+- Facebook: [Iftekhar Ul Islam](https://www.facebook.com/iftekhar.ifty.752/) 
+- LinkedIn: [Iftekhar Ul Islam](https://www.linkedin.com/in/iftekhar-ul-islam-a84b55335/)
 - WhatsApp: +880 18 6030 3303
 
 ---
