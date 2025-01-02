@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Iftekhar Ul Islam!
 
-Welcome to my GitHub profile! I'm a passionate Software Developer and Tester, always curious about how technology can solve real-world problems and make life easier. A love for continuous learning and creativity drives me.
+Welcome to my GitHub profile! I'm a passionate software developer and tester, and I am always curious about how technology can solve real-world problems and make life easier. A love for continuous learning and creativity drives me.
 
 ### 🚀 What I Do
 - **Coding**: I work on Python, JavaScript, React, HTML, CSS, Bootstrap.
@@ -23,7 +23,3 @@ Feel free to reach out! I love connecting with like-minded folks.
 - Facebook: [Iftekhar Ul Islam](https://www.facebook.com/iftekhar.ifty.752/) 
 - LinkedIn: [Iftekhar Ul Islam](https://www.linkedin.com/in/iftekhar-ul-islam-a84b55335/)
 - WhatsApp: +880 18 6030 3303
-
----
-
-Feel free to adjust the sections to fit your style and interests!
